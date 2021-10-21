@@ -1,0 +1,16 @@
+
+#parrafo1{
+    font-size: 18px;
+    background-color: rgb(228, 101, 51);
+    color:blanchedalmond;
+    margin: 50px; 
+    padding: 50px;
+    border-color: rgba(12, 19, 9, 0.062);
+    border: 2px;
+    border-style: solid;
+}
+.titulo{
+    font-size: 30px;
+    background-color: violet;
+    color: wheat;
+}
